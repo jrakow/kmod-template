@@ -1,6 +1,6 @@
 [package]
-name = "kmod-template"
+name = "{{project-name}}"
 version = "0.1.0"
-authors = ["Julius Rakow <julius@rakow.me>"]
+authors = ["{{authors}}"]
 
 [dependencies]
