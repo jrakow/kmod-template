@@ -1,3 +1,11 @@
 /target
 **/*.rs.bk
 Cargo.lock
+*.o
+.*.ko.cmd
+.*.o.cmd
+*.ko
+.tmp_versions/
+Module.symvers
+{{project-name}}.mod.c
+modules.order
