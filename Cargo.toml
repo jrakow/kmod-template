@@ -1,0 +1,6 @@
+[package]
+name = "kmod-template"
+version = "0.1.0"
+authors = ["Julius Rakow <julius@rakow.me>"]
+
+[dependencies]
